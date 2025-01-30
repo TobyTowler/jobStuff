@@ -1,0 +1,38 @@
+Toby Towler
+Stowmarket, UK
+tobytowler11@gmail.com, 07913025249
+github.com/TobyTowler
+
+Dear reader, 
+I am excited to apply for this job opportunity, I am motivated to improve myself, my work and to shape projects to the best . I am currently in my third year a Beng degree at UEA in computer systems engineering. I have completed programming, electronics, network and embedded systems modules in my studies.
+
+During my time at university i have become more and more interested at low level software and hardware development, everything from designing chips to writing code to run on it. I have made a logic based traffic light system, an analogue mircophone encoder and amplifier as well as a knock off "BopIt" game for various couseworks, as well as severl software projects in my free time to further my learning. My thirdyear project is based on an embedded lawnmower robot, similar to "roomba" vacuum. I am currently responsible for the map generation and complete coverage path planning
+I enjoy analysing problems and data to understand how to improve performance and efficiency and am relentlessly resilient. I am confident in programming in C++, Python, Java and more.
+
+I have Asperger's syndrome, this allows me to think in a unqiue and algorithmic way when solving problems. 
+
+I look forward to hearing back from you and taking the next step in my career. please find above my contact and project infomation.
+
+Many thanks
+Toby Towler
+
+
+
+Dear reader,
+
+I am excited to apply for the [specific position name] at [company name]. As a motivated and detail-oriented individual, I am eager to contribute my skills and passion for low-level software and hardware development to your team.
+
+Currently, I am in my third year of a BEng degree in Computer Systems Engineering at the University of East Anglia (UEA). Through coursework and personal projects, I have developed strong skills and interests in programming, electronics, networks, and embedded systems.
+
+My academic journey has deepened my interest in the intersection of hardware and software. I have undertaken diverse projects, including designing a logic-based traffic light system, creating an analog microphone encoder and amplifier, and developing a knockoff "BopIt" game. My current third-year project focuses on an embedded robotic lawnmower, where I am currently responsible for map generation both random and from an aeriel image as well as complete coverage path planning. These experiences have sharpened my ability to analyze problems and implement efficient, innovative solutions.
+
+Beyond academics, I have pursued additional software projects in my free time, demonstrating my dedication to continuous learning and growth. I am proficient in C++, Python, Java, and other programming languages, and I am particularly drawn to challenges that require algorithmic thinking and system optimization.
+
+As someone with Asperger's syndrome, I approach problems with a unique, algorithmic perspective that enables me to identify patterns and craft effective solutions. My resilience and enthusiasm drive me to tackle complex challenges and deliver high-quality results.
+
+I would be delighted to discuss how my skills and experiences align with the needs of your team. Please feel free to contact me via [email address] or [phone number]. I have also included links to my project portfolio for your review.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to [company name] and to grow as a professional in this field.
+
+Best regards,
+Toby Towler
